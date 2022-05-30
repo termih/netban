@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# 2022-05-30
+# Enable internet for host
 
 echo $1
 
